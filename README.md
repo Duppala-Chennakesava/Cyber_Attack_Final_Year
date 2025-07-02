@@ -1,4 +1,4 @@
-# Machine Learning / Deep Learning Environment Setup
+# CYBER CRIME PREDICTION IN THE DEPARTMENT OF TELECOMMUNICATIONS / Machine Learning 
 
 This project sets up a comprehensive Python environment for machine learning and deep learning tasks. It includes essential libraries such as TensorFlow, Keras, OpenCV, scikit-learn, and many others for data manipulation, visualization, image processing, and model training.
 
